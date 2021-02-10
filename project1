@@ -1,0 +1,1782 @@
+Center.jsp:
+<!doctypehtml>
+<!--[if lt IE 7]><html class="no-jslt-ie9 lt-ie8 lt-ie7" lang=""><![endif]-->
+<!--[if IE 7]><html class="no-jslt-ie9 lt-ie8" lang=""><![endif]-->
+<!--[if IE 8]><html class="no-jslt-ie9" lang=""><![endif]-->
+<!--[if gt IE 8]><!--><htmlclass="no-js"lang=""><!--<![endif]-->
+<head>
+<metacharset="utf-8">
+<metahttp-equiv="X-UA-Compatible"content="IE=edge,chrome=1">
+<title>Newline Template</title>
+<!--
+Newline Template
+https://templatemo.com/tm-503-newline
+-->
+<metaname="description"content="">
+<metaname="viewport"content="width=device-width, initial-scale=1">
+<linkrel="apple-touch-icon"href="apple-touch-icon.png">
+<linkrel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">	
+<linkrel="stylesheet"href="css/bootstrap.min.css">
+<linkrel="stylesheet"href="css/bootstrap-theme.min.css">
+<linkrel="stylesheet"href="css/fontAwesome.css">
+<linkrel="stylesheet"href="css/templatemo-style.css">
+
+<linkhref="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900"rel="stylesheet">
+
+<scriptsrc="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+</head>
+<body>
+
+<divclass="overlay"></div>
+<sectionclass="top-part">
+<videocontrolsautoplayloop>
+<sourcesrc="videos/video.mp4"type="video/mp4">
+<sourcesrc="videos/video.ogg"type="video/ogg">
+          Your browser does not support the video tag.
+</video>
+</section>
+
+<sectionclass="cd-hero">
+
+<divclass="cd-slider-nav">
+<nav>
+<spanclass="cd-marker item-1"></span>
+<ul>
+<li><ahref="Manager_Log.jsp"><spanclass="fa fa-user"style="font-size: 65px;color:red"></span><h6>Manager</h6></a></li>
+<li><ahref="Hop_log.jsp"><spanclass="fa fa-stethoscope"style="font-size: 65px;color:red"></span><h6>Hospital</h6></a></li>
+<li><ahref="Emp_Log.jsp"><spanclass="fa fa-user"style="font-size: 65px;color:red"></span><h6>Employee</h6></a></li>
+
+</ul>
+</nav>
+</div><!-- .cd-slider-nav -->
+
+<ulclass="cd-hero-slider">
+<liclass="selected">
+<divclass="heading">
+<h1>Online Health</h1>
+<span>Welcome to Health Agency</span>
+</div>
+<divclass="cd-full-width first-slide">
+<divclass="container">
+<divclass="row">
+<divclass="col-md-12">
+<divclass="content first-content">
+<h4>About Online Health</h4>
+<p>To keep the body in good health is a duty. Otherwise we shall not be able to keep the mind strong and clear.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+
+</ul>
+</section>
+
+
+</body>
+</html>
+Manager_login.jsp:
+<!DOCTYPEHTML>
+<htmllang="zxx">
+<head>
+	<title>Portrait Login Form Responsive Widget Template :: w3layouts</title>
+	<metaname="viewport"content="width=device-width, initial-scale=1">
+	<metahttp-equiv="Content-Type"content="text/html; charset=utf-8"/>
+	<metaname="keywords"content="Portrait Login Form Responsive Widget downs,Registration Forms,News letter Forms,Elements"/>
+	<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<linkrel="stylesheet"href="css3/style.css"type="text/css"media="all"/>
+	<linkrel="stylesheet"href="css3/font-awesome.css">
+	<linkhref="//fonts.googleapis.com/css?family=Tangerine:400,700"rel="stylesheet">
+	<linkhref="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"rel="stylesheet">
+</head>
+<style>
+#log
+{
+color:red;
+font-size:23px;
+font-family:Algerian;
+}
+
+a
+{
+color:white;
+font-size:23px;
+font-family:Algerian;
+}
+</style>
+<body>
+	<divclass="header-w3l">
+		<h1>
+			<span>M</span>anager
+			<span>L</span>ogin
+			<span>F</span>orm</h1>
+	</div>
+	<divclass="main-content-agile">
+		<divclass="sub-main-w3">
+			<formaction="Adminlog"method="post">
+				<divclass="pom-agile">
+					<spanclass="fa-fa-user-o"aria-hidden="true"></span>
+					<inputplaceholder="Name"name="name"class="user"type="text"required="">
+				</div>
+				<divclass="pom-agile">
+					<spanclass=""aria-hidden="true"></span>
+					<inputplaceholder="Password"name="password"class="pass"type="password"required="">
+				</div>
+				<divclass="right-w3l">
+					<inputtype="submit"value="Login">
+				</div>
+						
+			</form>
+		</div>
+	</div>
+</body>
+
+</html>
+
+<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+-->
+<!DOCTYPEhtml>
+<htmllang="en">
+<head>
+<title>Game Over a Games Category Flat Bootstrap responsive Website Template | Home :: w3layouts</title>
+<metaname="viewport"content="width=device-width, initial-scale=1">
+<metahttp-equiv="Content-Type"content="text/html; charset=utf-8"/>
+<metaname="keywords"content="Game Over Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design"/>
+<scripttype="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- bootstrap-css -->
+<linkhref="css01/bootstrap.css"rel="stylesheet"type="text/css"media="all"/>
+<!--// bootstrap-css -->
+<!-- css -->
+<linkrel="stylesheet"href="css01/style.css"type="text/css"media="all"/>
+<!--// css -->
+<!-- font-awesome icons -->
+<linkhref="css01/font-awesome.css"rel="stylesheet">
+<!-- //font-awesome icons -->
+<!-- font -->
+<linkhref="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700"rel="stylesheet">
+<linkhref='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300'rel='stylesheet'type='text/css'>
+<!-- //font -->
+<scriptsrc="js01/jquery-1.11.1.min.js"></script>
+<scriptsrc="js01/bootstrap.js"></script>
+<!-- light-box -->
+<linkrel="stylesheet"href="css01/lightbox.css">
+<!-- //light-box -->
+<!-- <script src="js/SmoothScroll.min.js"></script> -->
+<scripttype="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+
+</head>
+<body>
+	<!-- banner -->
+	<divclass="banner">
+		<divclass="banner-dot">
+		<!-- header-top -->
+		<divclass="header-top">
+			<divclass="container">
+				<divclass="header-left">
+					<h1><ahref="index.html">Medicine  <span>Data</span></a></h1>
+				</div>
+				<divclass="header-middle">
+					<ul>
+						<li><spanclass="glyphicon glyphicon-phone"aria-hidden="true"></span>+91 9876543211</li>
+						<li><ahref="mailto:info@example.com"><spanclass="glyphicon glyphicon-envelope"aria-hidden="true"></span>med@example.com</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- //header-top -->
+		<!--header-->
+		<divclass="header">
+			<divclass="container">		
+				<navclass="navbar navbar-default">
+					<divclass="navbar-header">
+						<buttontype="button"class="navbar-toggle"data-toggle="collapse"data-target="#bs-example-navbar-collapse-1">
+							<spanclass="sr-only">Toggle navigation</span>
+							<spanclass="icon-bar"></span>
+							<spanclass="icon-bar"></span>
+							<spanclass="icon-bar"></span>
+						</button>
+					</div>
+					<!--navbar-header-->
+					<divclass="collapse navbar-collapse"id="bs-example-navbar-collapse-1">
+						<ulclass="nav navbar-nav navbar-right">
+
+							<li><ahref="Viewfile.jsp">View</a></li>
+							<li><ahref="Search1.jsp">Search</a></li>
+							<li><ahref="Logout.jsp">Logout</a></li>
+						
+						</ul>	
+						<divclass="clearfix"></div>	
+					</div>
+				</nav>
+			</div>
+		</div>
+		<!--//header-->
+		<!-- banner-info -->
+		<divclass="banner-info">
+			<divclass="container">
+				<divclass="w3layouts-text">
+					<h3>Laughter is the best medicine</h3>
+					<label></label>
+					<h2>Laughing a lot is a very effective means of recovering from physical or mental injury.</h2>
+				</div>
+				<divclass="social">
+					<ul>
+						<li><ahref="#"><iclass="fa fa-facebook"></i></a></li>
+						<li><ahref="#"><iclass="fa fa-twitter"></i></a></li>
+						<li><ahref="#"><iclass="fa fa-rss"></i></a></li>
+						<li><ahref="#"><iclass="fa fa-vk"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- //banner-info -->
+		</div>
+	</div>
+
+	
+	
+	<scriptsrc="js01/jarallax.js"></script>
+	<scripttype="text/javascript">
+		/* init Jarallax */
+		$('.jarallax').jarallax({
+			speed: 0.5,
+			imgWidth: 1366,
+			imgHeight: 768
+		})
+	</script>
+	<scriptsrc="js01/responsiveslides.min.js"></script>
+<scripttype="text/javascript"src="js/move-top.js"></script>
+<scripttype="text/javascript"src="js/easing.js"></script>
+	<!-- here stars scrolling icon -->
+	<scripttype="text/javascript">
+		$(document).ready(function() {
+			/*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+				};
+			*/
+								
+			$().UItoTop({ easingType: 'easeOutQuart' });
+								
+			});
+	</script>
+<!-- //here ends scrolling icon -->
+</body>	
+</html>
+
+Viewfile.jsp:
+<%@pageimport=" dbcon.Dbcon"%>
+<%@pageimport="java.sql.ResultSet"%>
+<%@pageimport="java.sql.PreparedStatement"%>
+<%@pageimport="java.sql.*"%>
+<%@pageimport="java.util.*"%>
+<%@pageimport="java.util.Date; "%>
+
+<%@pagelanguage="java"contentType="text/html; charset=ISO-8859-1"
+pageEncoding="ISO-8859-1"%>
+<!DOCTYPEhtmlPUBLIC"-//W3C//DTD HTML 4.01 Transitional//EN""http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<linkrel="icon"href="web1.jpg"type="image/gif"sizes="20X20">
+<metahttp-equiv="Content-Type"content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+<style>
+body
+    {
+background: linear-gradient(to right, #ffff99 0%, #00ff99 100%);
+height: 606px;
+    }
+table,th {
+border: 3px double black;
+border-collapse: collapse;
+text-align: center;  
+color:black;
+font-family:Times new roman;
+font-size:20px;
+}
+td {
+border: 3px double black;
+border-collapse: collapse;
+text-align: center;  
+color:black;
+text-transform: uppercase;
+font-family:Times new roman;
+font-size:20px;
+}
+a {
+font-size:34px;
+font-family:Times new roman;
+display: block;
+color: black;
+text-align: center;
+margin-left:80%;
+margin-top: 3%;
+}
+button
+{
+font-size: 15px;
+font-family: USSR STENCIL; 
+margin-left: -173px;
+}
+</style>
+</head>
+<body>
+<ahref="Mang_Main.jsp">BACK</a>
+<%
+Date date = new Date();
+System.out.println(new Timestamp(date.getTime()));  %>
+
+<tableborder="2"align="center"style="color:black; width: 100%; margin-top:10px;">
+
+	<tr>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Time</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Name</td>
+		<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Age</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Pregnancies</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Glucose</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">BloodPressure</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">SkinThickness</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Insulin</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">BMI</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Status</td>
+
+	</tr>
+	
+<%
+
+
+Connection d = Dbcon.CreateConnection();
+PreparedStatement p = d.prepareStatement("SELECT * FROM `healthh`.`data` ORDER BY Age");
+ResultSet s=p.executeQuery();
+
+	while(s.next())
+	{									
+
+		String name=s.getString(12);
+		String preg=s.getString(1);
+		String glu=s.getString(2);
+		String bp=s.getString(3);
+		String skt=s.getString(4);
+		String ins=s.getString(5);
+		String dmi=s.getString(6);
+		String age=s.getString(8);
+		String mail=s.getString(13);
+		String dia=s.getString(15);
+	%>
+<tr>
+<td><%=new Timestamp(date.getTime())%></td>
+<td><%=name%></td>
+<td><%=age%></td>
+<td><%=preg%></td>
+<td><%=glu%></td>
+<td><%=bp%></td>
+<td><%=skt%></td>
+<td><%=ins%></td>
+<td><%=dmi%></td>
+<td><%=dia%></td>
+<%}%>
+</table>
+</body>
+</html>
+
+Search.jsp:
+<html>
+<head>
+<metahttp-equiv="Content-Type"content="text/html; charset=UTF-8"/>
+<metaname="viewport"content="width=device-width, initial-scale=1"/>
+<metahttp-equiv="X-UA-Compatible"content="IE=edge"/>
+<metaname="author"content="colorlib.com">
+<linkhref="https://fonts.googleapis.com/css?family=Poppins"rel="stylesheet"/>
+<linkhref="css8/main.css"rel="stylesheet"/>
+
+</head>
+<style>
+body,html {
+height: 100%;
+margin: 0;
+}
+
+.s01 {
+background-image: url("222.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%; 
+}
+</style>
+<body>
+<divclass="s01">
+<% String val="140";%>
+<formaction="Showfile1.jsp"method="post">
+<fieldset>
+<legendstyle="margin-bottom:18%;">Discover the Amazing City</legend>
+</fieldset>
+<divclass="inner-form">
+<divclass="input-field first-wrap">
+<inputtype="text"name="pid"placeholder="Less than 140!!"required=""style="font-size:40px;" readonly/>
+<inputtype="hidden"name="valu"value="<%=val%>">
+<divclass="input-field third-wrap">
+<buttonclass="btn-search"style="float:right; margin-right: -530%; margin-top: -67px;" type="submit">Search</button>
+</div>
+</div>
+</div>
+</form>
+</div>
+</body>
+</html>
+
+Showfile1.jsp:
+<%@pageimport=" dbcon.Dbcon"%>
+<%@pageimport="java.sql.*"%>
+<%@pageimport="java.util.*"%>
+<%@pageimport="java.util.Date; "%>
+<%@pagelanguage="java"contentType="text/html; charset=ISO-8859-1"
+pageEncoding="ISO-8859-1"%>
+<!DOCTYPEhtml">
+<html>
+<head>
+<metahttp-equiv="Content-Type"content="text/html; charset=ISO-8859-1">
+<script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+</script>
+<title>Insert title here</title>
+<style>
+body
+    {
+background: linear-gradient(to left, #00ff00 0%, #ffff00 100%);
+background-attachment: fixed;
+height: 606px;
+    }
+table,th,td {
+font-family:Philosopher;
+border: 3px double black;
+border-collapse: collapse;
+text-align: center;  
+color:black;
+font-weight: bold;
+text-transform: uppercase;
+padding-bottom: 15px;
+font-size:20px;
+}
+
+a {
+font-size:34px;
+font-family:Times new roman;
+display: block;
+color: black;
+text-align: center;
+margin-left:80%;
+margin-top: 3%;
+}
+button
+{
+font-size: 15px;
+font-family: USSR STENCIL; 
+margin-left: -50px;
+padding-top: 7px;
+}
+</style>
+</head>
+<body>
+<ahref="Search.jsp">BACK</a>
+	<%
+ String pid=request.getParameter("valu");
+ System.out.println("Glucose Value1: "+pid);
+
+%>
+<%
+ Date date = new Date();
+ System.out.println(new Timestamp(date.getTime()));
+%>
+<tableborder="2"align="center"style="color:black; width: 100%; margin-top:27px;">	
+
+	<tr>
+		
+<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Time</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Name</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Age</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Pregnancies</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Glucose</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">BloodPressure</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">SkinThickness</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Insulin</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">BMI</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Status</td>
+	
+	</tr>
+	
+<%
+
+
+Connection d = Dbcon.CreateConnection();
+PreparedStatement p = d.prepareStatement("SELECT * FROM `healthh`.`data` where Glucose <='"+pid+"' ORDER BY Age");
+ResultSet s=p.executeQuery();
+
+	while(s.next())
+	{									
+		String name=s.getString(12);
+		String preg=s.getString(1);
+		String glu=s.getString(2);
+		String bp=s.getString(3);
+		String skt=s.getString(4);
+		String ins=s.getString(5);
+		String dmi=s.getString(6);
+		String age=s.getString(8);
+		String mail=s.getString(13);
+		String dia=s.getString(15);
+	%>
+<tr>
+<td><%=new Timestamp(date.getTime())%></td>
+<td><%=name%></td>
+<td><%=age%></td>
+<td><%=preg%></td>
+<td><%=glu%></td>
+<td><%=bp%></td>
+<td><%=skt%></td>
+<td><%=ins%></td>
+<td><%=dmi%></td>
+<td><%=dia%></td>
+
+
+<%}%>
+</table>
+</body>
+</html>
+Search.jsp:
+<html>
+<head>
+<metahttp-equiv="Content-Type"content="text/html; charset=UTF-8"/>
+<metaname="viewport"content="width=device-width, initial-scale=1"/>
+<metahttp-equiv="X-UA-Compatible"content="IE=edge"/>
+<metaname="author"content="colorlib.com">
+<linkhref="https://fonts.googleapis.com/css?family=Poppins"rel="stylesheet"/>
+<linkhref="css8/main.css"rel="stylesheet"/>
+
+</head>
+<style>
+body,html {
+height: 100%;
+margin: 0;
+}
+
+.s01 {
+background-image: url("222.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%; 
+}
+button
+{
+font-size: 20px;
+border: 3px yellow double;
+box-shadow: 5px 2px red;
+font-family: Algerian;
+}
+</style>
+<body>
+<divclass="s01">
+<formaction="Showfile.jsp"method="post"autocomplete="off">
+<fieldset>
+<legendstyle="margin-bottom:18%;">Discover the Search</legend>
+</fieldset>
+<divclass="inner-form">
+<divclass="input-field first-wrap">
+<inputtype="text"name="f1"placeholder="FROM"required=""/>
+</div>
+<divclass="input-field first-wrap">
+<inputtype="text"name="f2"placeholder="TO"required=""/>
+<divclass="input-field third-wrap">
+<buttonstyle="float:right; margin-right: -150%; margin-top: -25%;" type="submit">Search</button>
+</div>
+</div>
+</div>
+
+</form>
+</div>
+</body>
+</html>
+
+Showfile.jsp:
+<%@pageimport=" dbcon.Dbcon"%>
+<%@pageimport="java.sql.*"%>
+<%@pageimport="java.util.*"%>
+<%@pageimport="java.util.Date; "%>
+<%@pagelanguage="java"contentType="text/html; charset=ISO-8859-1"
+pageEncoding="ISO-8859-1"%>
+<!DOCTYPEhtml">
+<html>
+<head>
+<metahttp-equiv="Content-Type"content="text/html; charset=ISO-8859-1">
+<script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+</script>
+<title>Insert title here</title>
+<style>
+body
+    {
+background: linear-gradient(to left, #00ff00 0%, #ffff00 100%);
+background-attachment: fixed;
+height: 606px;
+    }
+table,th,td {
+font-family:Philosopher;
+border: 3px double black;
+border-collapse: collapse;
+text-align: center;  
+color:black;
+font-weight: bold;
+text-transform: uppercase;
+padding-bottom: 15px;
+font-size:20px;
+}
+
+a {
+font-size:34px;
+font-family:Times new roman;
+display: block;
+color: black;
+text-align: center;
+margin-left:80%;
+margin-top: 3%;
+}
+button
+{
+font-size: 15px;
+font-family: USSR STENCIL; 
+margin-left: -50px;
+padding-top: 7px;
+}
+</style>
+</head>
+<body>
+<ahref="Search2.jsp">BACK</a>
+	<%
+ String f1=request.getParameter("f1");
+ System.out.println("Glucose Value1: "+f1);
+
+ String f2=request.getParameter("f2");
+ System.out.println("Glucose Value: "+f2);
+%>
+<%
+ Date date = new Date();
+ System.out.println(new Timestamp(date.getTime()));
+%>
+<tableborder="2"align="center"style="color:black; width: 100%; margin-top:27px;">	
+
+
+		
+
+	<tr>
+		
+<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Time</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Name</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Age</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Pregnancies</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Glucose</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">BloodPressure</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">SkinThickness</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Insulin</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">BMI</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Status</td>
+	
+	</tr>
+	
+<%
+
+
+Connection d = Dbcon.CreateConnection();
+PreparedStatement p = d.prepareStatement("SELECT * FROM `healthh`.`data` where Glucose >='"+f1+"' AND  Glucose <='"+f2+"' ORDER BY Age");
+ResultSet s=p.executeQuery();
+
+	while(s.next())
+	{									
+		String name=s.getString(12);
+		String preg=s.getString(1);
+		String glu=s.getString(2);
+		String bp=s.getString(3);
+		String skt=s.getString(4);
+		String ins=s.getString(5);
+		String dmi=s.getString(6);
+		String age=s.getString(8);
+		String mail=s.getString(13);
+		String dia=s.getString(15);
+	%>
+<tr>
+<td><%=new Timestamp(date.getTime())%></td>
+<td><%=name%></td>
+<td><%=age%></td>
+<td><%=preg%></td>
+<td><%=glu%></td>
+<td><%=bp%></td>
+<td><%=skt%></td>
+<td><%=ins%></td>
+<td><%=dmi%></td>
+<td><%=dia%></td>
+<%}%>
+</table>
+</body>
+</html>
+Search2.jsp:
+<html>
+<head>
+<metahttp-equiv="Content-Type"content="text/html; charset=UTF-8"/>
+<metaname="viewport"content="width=device-width, initial-scale=1"/>
+<metahttp-equiv="X-UA-Compatible"content="IE=edge"/>
+<metaname="author"content="colorlib.com">
+<linkhref="https://fonts.googleapis.com/css?family=Poppins"rel="stylesheet"/>
+<linkhref="css8/main.css"rel="stylesheet"/>
+
+</head>
+<style>
+body,html {
+height: 100%;
+margin: 0;
+}
+
+.s01 {
+background-image: url("222.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%; 
+}
+</style>
+<body>
+<divclass="s01">
+<% String val="199";%>
+<formaction="Showfile2.jsp"method="post">
+<fieldset>
+<legendstyle="margin-bottom:18%;">Discover the Amazing City</legend>
+</fieldset>
+<divclass="inner-form">
+<divclass="input-field first-wrap">
+<inputtype="text"name="pid"placeholder="Greater Than 199!!"required=""style="font-size:40px;" readonly/>
+<inputtype="hidden"name="valu"value="<%=val%>">
+<divclass="input-field third-wrap">
+<buttonclass="btn-search"style="float:right; margin-right: -530%; margin-top: -67px;" type="submit">Search</button>
+</div>
+</div>
+</div>
+</form>
+</div>
+</body>
+</html>
+
+
+
+Emplogin.jsp:
+<!DOCTYPEHTML>
+<html>
+<head>
+	<title>Modal login Form Responsive Widget Template :: w3layouts</title>
+	<!-- Meta-Tags -->
+	<metaname="viewport"content="width=device-width, initial-scale=1">
+	<metacharset="utf-8">
+	<metaname="keywords"content="Modal login Form a Responsive Web Template, Bootstrap Web Templates, Flat Web Templates, Android Compatible Web Template, Smartphone Compatible Web Template, Free Webdesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola Web Design">
+	<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<linkhref="css03/font-awesome.css"rel="stylesheet">
+	<linkhref="css03/style.css"rel='stylesheet'type='text/css'/>
+	<linkhref="//fonts.googleapis.com/css?family=Niconne"rel="stylesheet">
+	<linkhref="//fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i"rel="stylesheet">
+</head>
+<style>
+
+.w3ls-loginh3 {
+font-size: 18px;
+text-align: center;
+color: black;
+font-family: Philosopher;
+font-weight: 400;
+}
+.w3ls-loginh3a {
+color: #ecba65;
+	margin-left: 6px; 
+}
+.w3ls-loginh3a:hover{
+color: red;
+font-weight: bold;
+}
+</style>
+<body>
+	<h1>Employee login Form </h1>
+	<divclass="w3ls-login box box--big">
+		<formaction="Emplog"method="post">
+			<divclass="agile-field-txt">
+				<label>
+					<iclass="fa fa-user"aria-hidden="true"></i>Your_ID :</label>
+				<inputtype="text"name="empid"placeholder="Your_ID"required=""/>
+			</div>
+			<divclass="agile-field-txt">
+				<label>
+					<iclass="fa fa-envelope"aria-hidden="true"></i> password :</label>
+				<inputtype="password"name="password"placeholder="Password"required=""id="myInput"/>
+			</div>
+	
+			<divclass="w3ls-bot">
+	
+				<divclass="form-end">
+					<inputtype="submit"value="LOGIN">
+				</div>
+			</div>
+		</form>
+	</div>
+	
+</body>
+
+</html>
+
+Empmain.jsp:
+<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+-->
+<!DOCTYPEhtml>
+<htmllang="en">
+<head>
+<title>Game Over a Games Category Flat Bootstrap responsive Website Template | Home :: w3layouts</title>
+<metaname="viewport"content="width=device-width, initial-scale=1">
+<metahttp-equiv="Content-Type"content="text/html; charset=utf-8"/>
+<metaname="keywords"content="Game Over Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design"/>
+<scripttype="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- bootstrap-css -->
+<linkhref="css01/bootstrap.css"rel="stylesheet"type="text/css"media="all"/>
+<!--// bootstrap-css -->
+<!-- css -->
+<linkrel="stylesheet"href="css01/style.css"type="text/css"media="all"/>
+<!--// css -->
+<!-- font-awesome icons -->
+<linkhref="css01/font-awesome.css"rel="stylesheet">
+<!-- //font-awesome icons -->
+<!-- font -->
+<linkhref="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700"rel="stylesheet">
+<linkhref='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300'rel='stylesheet'type='text/css'>
+<!-- //font -->
+<scriptsrc="js01/jquery-1.11.1.min.js"></script>
+<scriptsrc="js01/bootstrap.js"></script>
+<!-- light-box -->
+<linkrel="stylesheet"href="css01/lightbox.css">
+<!-- //light-box -->
+<!-- <script src="js/SmoothScroll.min.js"></script> -->
+<scripttype="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+<style>
+.banner
+    {
+background: linear-gradient(to left, #00ff00 0%, #ffff00 100%);
+background-attachment: fixed;
+height: 606px;
+    }
+</style>
+</head>
+
+<body>
+	<!-- banner -->
+	<divclass="banner">
+		<divclass="banner-dot">
+		<!-- header-top -->
+		<divclass="header-top">
+			<divclass="container">
+				<divclass="header-left">
+					<h1><ahref="index.html">Medicine  <span>Data</span></a></h1>
+				</div>
+				<divclass="header-middle">
+					<ul>
+						<li><spanclass="glyphicon glyphicon-phone"aria-hidden="true"></span>+91 9876543211</li>
+						<li><ahref="mailto:info@example.com"><spanclass="glyphicon glyphicon-envelope"aria-hidden="true"></span>med@example.com</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- //header-top -->
+		<!--header-->
+		<divclass="header">
+			<divclass="container">		
+				<navclass="navbar navbar-default">
+					<divclass="navbar-header">
+						<buttontype="button"class="navbar-toggle"data-toggle="collapse"data-target="#bs-example-navbar-collapse-1">
+							<spanclass="sr-only">Toggle navigation</span>
+							<spanclass="icon-bar"></span>
+							<spanclass="icon-bar"></span>
+							<spanclass="icon-bar"></span>
+						</button>
+					</div>
+					<!--navbar-header-->
+					<divclass="collapse navbar-collapse"id="bs-example-navbar-collapse-1">
+						<ulclass="nav navbar-nav navbar-right">
+							<li><ahref="Copy of Viewfile.jsp">View</a></li>
+							<li><ahref="Emp_search.jsp">Search</a></li>
+							<li><ahref="Logout.jsp">Logout</a></li>
+				<!-- 			<li><a href="#gallery" class="scroll">Gallery</a></li>
+							<li><a href="#news" class="scroll">News</a></li>
+							<li><a href="#team" class="scroll">Team</a></li>
+							<li><a href="#contact" class="scroll">Contact Us</a></li> -->
+						</ul>	
+						<divclass="clearfix"></div>	
+					</div>
+				</nav>
+			</div>
+		</div>
+	
+		</div>
+	</div>
+
+</body>	
+</html>
+Copyviewfile.jsp:
+<%@pageimport=" dbcon.Dbcon"%>
+<%@pageimport="java.sql.ResultSet"%>
+<%@pageimport="java.sql.PreparedStatement"%>
+<%@pageimport="java.sql.*"%>
+<%@pageimport="java.util.*"%>
+<%@pageimport="java.util.Date; "%>
+
+<%@pagelanguage="java"contentType="text/html; charset=ISO-8859-1"
+pageEncoding="ISO-8859-1"%>
+<!DOCTYPEhtmlPUBLIC"-//W3C//DTD HTML 4.01 Transitional//EN""http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<linkrel="icon"href="web1.jpg"type="image/gif"sizes="20X20">
+<metahttp-equiv="Content-Type"content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+<style>
+body
+    {
+background: linear-gradient(to right, #ffff99 0%, #00ff99 100%);
+height: 606px;
+    }
+table,th {
+border: 3px double black;
+border-collapse: collapse;
+text-align: center;  
+color:black;
+font-family:Times new roman;
+font-size:20px;
+}
+td {
+border: 3px double black;
+border-collapse: collapse;
+text-align: center;  
+color:black;
+text-transform: uppercase;
+font-family:Times new roman;
+font-size:20px;
+}
+a {
+font-size:34px;
+font-family:Times new roman;
+display: block;
+color: black;
+text-align: center;
+margin-left:80%;
+margin-top: 3%;
+}
+button
+{
+font-size: 15px;
+font-family: USSR STENCIL; 
+margin-left: -173px;
+}
+</style>
+</head>
+<body>
+<ahref="Emp_Main.jsp">BACK</a>
+<%
+Date date = new Date();
+System.out.println(new Timestamp(date.getTime()));  %>
+
+<tableborder="2"align="center"style="color:black; width: 100%; margin-top:10px;">
+
+	<tr>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Time</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Name</td>
+		<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Age</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Pregnancies</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Glucose</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">BloodPressure</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">SkinThickness</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Insulin</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">BMI</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Status</td>
+
+
+
+	</tr>
+	
+<%
+
+
+Connection d = Dbcon.CreateConnection();
+PreparedStatement p = d.prepareStatement("SELECT * FROM `healthh`.`data` ORDER BY Age");
+ResultSet s=p.executeQuery();
+
+	while(s.next())
+	{									
+
+		String name=s.getString(12);
+		String preg=s.getString(1);
+		String glu=s.getString(2);
+		String bp=s.getString(3);
+		String skt=s.getString(4);
+		String ins=s.getString(5);
+		String dmi=s.getString(6);
+		String age=s.getString(8);
+		String mail=s.getString(13);
+		String dia=s.getString(15);
+	%>
+<tr>
+<td><%=new Timestamp(date.getTime())%></td>
+<td><%=name%></td>
+<td><%=age%></td>
+<td><%=preg%></td>
+<td><%=glu%></td>
+<td><%=bp%></td>
+<td><%=skt%></td>
+<td><%=ins%></td>
+<td><%=dmi%></td>
+<td><%=dia%></td>
+<%}%>
+</table>
+</body>
+</html>
+Empsearch.jsp:
+<html>
+<head>
+<metahttp-equiv="Content-Type"content="text/html; charset=UTF-8"/>
+<metaname="viewport"content="width=device-width, initial-scale=1"/>
+<metahttp-equiv="X-UA-Compatible"content="IE=edge"/>
+<metaname="author"content="colorlib.com">
+<linkhref="https://fonts.googleapis.com/css?family=Poppins"rel="stylesheet"/>
+<linkhref="css8/main.css"rel="stylesheet"/>
+
+</head>
+<style>
+body,html {
+height: 100%;
+margin: 0;
+}
+
+.s01 {
+background-image: url("222.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%; 
+}
+</style>
+<body>
+<divclass="s01">
+<formaction="Emp_show.jsp"method="post">
+<fieldset>
+<legendstyle="margin-bottom:18%;">Discover the Amazing City</legend>
+</fieldset>
+<divclass="inner-form">
+<divclass="input-field first-wrap">
+<inputtype="text"name="pid"placeholder="Enter ID or Name"required=""style="font-size:25px;"/>
+<divclass="input-field third-wrap">
+<buttonclass="btn-search"style="float:right; margin-right: -530%; margin-top: -67px;" type="submit">Search</button>
+</div>
+</div>
+</div>
+</form>
+</div>
+</body>
+</html>
+
+Emp_show.jsp:
+<%@pageimport=" dbcon.Dbcon"%>
+<%@pageimport="java.sql.*"%>
+<%@pageimport="java.util.*"%>
+<%@pageimport="java.util.Date; "%>
+<%@pagelanguage="java"contentType="text/html; charset=ISO-8859-1"
+pageEncoding="ISO-8859-1"%>
+<!DOCTYPEhtml">
+<html>
+<head>
+<metahttp-equiv="Content-Type"content="text/html; charset=ISO-8859-1">
+<script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+</script>
+<title>Insert title here</title>
+<style>
+body
+    {
+background: linear-gradient(to left, #00ff00 0%, #ffff00 100%);
+background-attachment: fixed;
+height: 606px;
+    }
+table,th,td {
+font-family:Philosopher;
+border: 3px double black;
+border-collapse: collapse;
+text-align: center;  
+color:black;
+font-weight: bold;
+text-transform: uppercase;
+padding-bottom: 15px;
+font-size:20px;
+}
+
+a {
+font-size:34px;
+font-family:Times new roman;
+display: block;
+color: black;
+text-align: center;
+margin-left:80%;
+margin-top: 3%;
+}
+button
+{
+font-size: 15px;
+font-family: USSR STENCIL; 
+margin-left: -50px;
+padding-top: 7px;
+}
+</style>
+</head>
+<body>
+<ahref="Emp_Main.jsp">BACK</a>
+	<%
+ String pid=request.getParameter("pid");
+ System.out.println("ID_Name: "+pid);
+
+%>
+<%
+ Date date = new Date();
+ System.out.println(new Timestamp(date.getTime()));
+%>
+<tableborder="2"align="center"style="color:black; width: 100%; margin-top:27px;">	
+
+	<tr>
+		
+<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Time</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Name</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Age</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Pregnancies</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Glucose</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">BloodPressure</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">SkinThickness</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Insulin</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">BMI</td>
+	<tdstyle="text-align:center; color:black; font-family: Times new roman; font-size: 21px;">Status</td>
+	</tr>
+	
+<%
+
+
+Connection d = Dbcon.CreateConnection();
+PreparedStatement p = d.prepareStatement("SELECT * FROM `healthh`.`data` where id='"+pid+"' or Name='"+pid+"' ORDER BY Age");
+ResultSet s=p.executeQuery();
+
+	while(s.next())
+	{									
+		String name=s.getString(12);
+		String preg=s.getString(1);
+		String glu=s.getString(2);
+		String bp=s.getString(3);
+		String skt=s.getString(4);
+		String ins=s.getString(5);
+		String dmi=s.getString(6);
+		String age=s.getString(8);
+		String mail=s.getString(13);
+		String dia=s.getString(15);
+	%>
+<tr>
+<td><%=new Timestamp(date.getTime())%></td>
+<td><%=name%></td>
+<td><%=age%></td>
+<td><%=preg%></td>
+<td><%=glu%></td>
+<td><%=bp%></td>
+<td><%=skt%></td>
+<td><%=ins%></td>
+<td><%=dmi%></td>
+<td><%=dia%></td>
+<%}%>
+</table>
+</body>
+</html>
+Logout.jsp
+<!DOCTYPEhtml>
+<htmllang="zxx">
+<head>
+<title>Prime login Form Flat Responsive Widget Template :: w3layouts</title>
+<metaname="viewport"content="width=device-width, initial-scale=1">
+<metacharset="utf-8">
+<metahttp-equiv="refresh"content="3; URL= Center.jsp">
+<metaname="keywords"content="Prime login Form a Responsive Web Template, Bootstrap Web Templates,Motorola Web Design">
+</head>
+<style>
+h1{
+font-family: BlackChancery;
+font-size: 45px;
+}
+</style>
+<bodybgcolor="#ffffcc">
+<div>
+<center>
+<imgsrc="dribbble-mavenly.gif"style="width:50%;">
+<h1>Logging Out...!!!</h1>
+</center>
+</div>
+</body>
+</html>
+
+Logout.jsp
+<!DOCTYPEhtml>
+<htmllang="zxx">
+<head>
+<title>Prime login Form Flat Responsive Widget Template :: w3layouts</title>
+<metaname="viewport"content="width=device-width, initial-scale=1">
+<metacharset="utf-8">
+<metahttp-equiv="refresh"content="3; URL= Center.jsp">
+<metaname="keywords"content="Prime login Form a Responsive Web Template, Bootstrap Web Templates,Motorola Web Design">
+</head>
+<style>
+h1{
+font-family: BlackChancery;
+font-size: 45px;
+}
+</style>
+<bodybgcolor="#ffffcc">
+<div>
+<center>
+<imgsrc="dribbble-mavenly.gif"style="width:50%;">
+<h1>Logging Out...!!!</h1>
+</center>
+</div>
+</body>
+</html>
+
+Hospmain.jsp:
+<!DOCTYPEhtml>
+<htmlclass="no-js">
+<head>
+<metacharset="utf-8">
+<title></title>
+<metaname="description"content="">
+<metaname="viewport"content="width=device-width">
+<linkhref='http://fonts.googleapis.com/css?family=Raleway:400,600,500,300,700'rel='stylesheet'type='text/css'>
+<linkrel="stylesheet"href="css04/bootstrap.min.css">
+<linkrel="stylesheet"href="css04/font-awesome.min.css">
+<linkrel="stylesheet"href="css04/templatemo_main.css">
+</head>
+<style>
+body{
+background-image: url(images00/db.jpg);
+background-size: cover;
+    }
+</style>
+<body>
+<divid="main-wrapper">
+<divclass="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center templatemo-logo margin-top-20">
+<h1class="templatemo-site-title">
+<ahref="#">Medical Store</a>
+</h1>
+
+</div>
+
+<divclass="image-section">
+<divclass="image-container">
+<imgsrc="images04/zoom-bg-1.jpg"id="menu-img"class="main-img inactive"alt="Zoom HTML5 Template by templatemo.com">
+<imgsrc="images04/zoom-bg-2.jpg"id="products-img"class="inactive"alt="Product">
+<imgsrc="images04/zoom-bg-3.jpg"id="services-img"class="inactive"alt="Services">
+<imgsrc="images04/zoom-bg-4.jpg"id="about-img"class="inactive"alt="About">
+<imgsrc="images04/zoom-bg-5.jpg"id="contact-img"class="inactive"alt="Contact">
+<imgsrc="images04/zoom-bg-6.jpg"id="company-intro-img"class="main-img inactive"alt="Company Intro">
+<imgsrc="images04/zoom-bg-7.jpg"id="testimonials-img"class="main-img inactive"alt="Testimonials">
+</div>
+</div>
+
+<divclass="container">
+<divclass="col-xs-12 col-sm-12 col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 templatemo-content-wrapper">
+<divclass="templatemo-content">
+
+<sectionid="menu-section"class="active">
+<divclass="row">
+<divclass="col-xs-6 col-sm-3 col-md-3 col-lg-3 margin-bottom-20">
+<ahref="Request.jsp"class="change-section">
+<divclass="black-bg btn-menu">
+<iclass="fa fa-paper-plane"></i>
+<h2>COMPANY REQUEST</h2>
+</div>
+</a>
+</div>
+
+
+<divclass="col-xs-6 col-sm-3 col-md-3 col-lg-3 margin-bottom-20">
+<ahref="Logout.jsp"class="change-section">
+<divclass="black-bg btn-menu">
+<iclass="fa fa-sign-out"></i>
+<h2>LOGOUT</h2>
+</div>
+</a>
+</div>
+
+
+</div>
+</section>
+
+</div>
+</div>
+</div>
+
+		</div>
+
+<divid="preloader">
+<divid="status">&nbsp;</div>
+</div>
+<scriptsrc="js04/jquery.min.js"></script>
+<scriptsrc="js04/jquery-ui.min.js"></script>
+<scriptsrc="js04/templatemo_script.js"></script>
+
+</body>
+</html>
+Request.jsp:
+<!DOCTYPEhtml>
+<htmllang="en">
+<%@pageimport="java.sql.ResultSet"%>
+<%@pageimport="java.util.*"%>
+<%@pageimport="java.sql.*"%>
+<%@pageimport="dbcon.Dbcon"%>
+<head>
+<title>CC08	</title>
+<metaname="viewport"content="width=device-width, initial-scale=1">
+<metahttp-equiv="Content-Type"content="text/html; charset=utf-8"/>
+<metaname="keywords"content="Infirmary Responsive web template, Bootstrap Web Templates, Flat Web Template"/>
+</head>
+<style>
+body
+    {
+background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
+background-attachment: fixed;
+    }
+
+th,td {
+padding: 10px; 
+font-size: 20px;
+color: black;
+font-family: Philosopher; 
+}
+button
+{
+font-size: 15px;
+font-family: Times new roman; 
+margin-left: 21%;
+}
+</style>
+<body>
+	<table>
+<tableborder="1"align="center"class="table"style="color:black; width:90%; text-align:center;
+border-color:black; background-color:#ffffff78; border-collapse: unset;">
+			<tr>
+			<br><br><br><br><br><br><br><br><br>
+			
+<thstyle="text-align:center; font-size: 19px;">NAME</th>
+<thstyle="text-align:center; font-size: 19px;">AGE</th>
+<thstyle="text-align:center; font-size: 19px;">GLUCOSE</th>
+<thstyle="text-align:center; font-size: 19px;">BP</th>
+<thstyle="text-align:center; font-size: 19px;">INSULIN</th>
+<thstyle="text-align:center; font-size: 19px;">BMI</th>
+<thstyle="text-align:center; font-size: 19px;">DIAB_STATUS</th>
+<thstyle="text-align:center; font-size: 19px;">STATUS</th>
+	</tr>
+
+<%
+
+	Connection con=null;
+    con=Dbcon.CreateConnection();
+	PreparedStatement ps=con.prepareStatement("SELECT * FROM `healthh`.`request`");
+	ResultSet rs=ps.executeQuery();
+
+	while(rs.next()){	
+		
+		String name=rs.getString(1);
+		String age=rs.getString(2);
+		String glucose=rs.getString(3); 
+		String bp=rs.getString(4);
+		String insulin=rs.getString(5);
+		String bmi=rs.getString(6);
+		String distatus=rs.getString(7);
+	
+	%>
+	
+<tr>
+<td><%=name%></td>
+<td><%=age%></td>
+<td><%=glucose%></td>
+<td><%=bp%></td>
+<td><%=insulin%></td>
+<td><%=bmi%></td>
+<td><%=distatus%></td>
+
+<tdalign="left"><ahref="?ownername=<%=name%>&&filename=<%=rs.getString(1)%>
+&&filekey=<%=rs.getString(8)%>"><buttontype="submit">Accept</button></a></td>
+		</tr>	
+	<%} %>
+</table>
+</table>		
+</body>
+</html>
+
+
+Adminlog.jsp:
+package servlet;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class Adminlog
+ */
+@WebServlet("/Adminlog")
+public class Adminlog extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public Adminlog() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		  String username=request.getParameter("name");
+		  System.out.println("Username"+username);
+		
+		  String password=request.getParameter("password");
+		  System.out.println("Password"+password);
+		
+		  if(username.equals("Admin") && password.equals("Admin"))
+		  {
+			  response.sendRedirect("Mang_Main.jsp");
+		  }
+		  else
+		  {
+			  response.sendRedirect("404.jsp");
+		  }
+		
+	}
+
+}
+
+
+Emplog.jsp:
+package servlet;
+
+import implement.Imple;
+import interfase.Inter;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import bean.Empbean;
+
+
+/**
+ * Servlet implementation class B1log
+ */
+@WebServlet("/Emplog")
+public class Emplog extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public Emplog() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		String empid=request.getParameter("empid");
+		System.out.println("Emp_id:"+empid);
+		
+		String pswd=request.getParameter("password");
+		System.out.println("Password:"+pswd);
+		
+		Empbean tr=new Empbean();
+	    tr.setEmpid(empid);
+	    tr.setPassword(pswd);
+		
+		Inter ll=new Imple();
+		boolean l=ll.tlog(tr);
+		if(l==true)
+		{
+			response.sendRedirect("Emp_Main.jsp");
+		}
+		else
+		{
+			response.sendRedirect("404-1.jsp");
+		}
+	}
+
+}
+
+Mailsend.jsp:
+package servlet;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import bean.MailBean;
+
+
+
+/**
+ * Servlet implementation class MailSend
+ */
+@WebServlet("/MailSend")
+public class MailSend extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public MailSend() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		doPost(request, response);
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		
+		
+		String to=request.getParameter("mail");
+		System.out.println("Usermail: "+to);
+		
+		String unn=request.getParameter("uname");
+		System.out.println("Uname: "+unn);
+		
+		String age=request.getParameter("age");
+		System.out.println("Age: "+age);
+		
+		String glu=request.getParameter("glus");
+		System.out.println("Glu: "+glu);
+		
+		String bp=request.getParameter("bp");
+		System.out.println("Bp: "+bp);	
+		
+		String ins=request.getParameter("insu");
+		System.out.println("Ins: "+ins);
+		
+		String bmi=request.getParameter("bmi");
+		System.out.println("Bmi: "+bmi);
+		
+		String dia=request.getParameter("diab");
+		System.out.println("Diab: "+dia);
+
+
+				String subject="Welcome";
+				String from ="cibettech@gmail.com";
+				String[] mail_list={to};
+				String body ="Your_Name: "+unn+"\n"+"Your_Age: "+age+"\n"+"Your_Glucose: "+glu+"\n"+ "Your_BP: "+ bp +"\n"+"Your_Insulin: "+ins+"\n"+ "Your_BMI: "+bmi +"\n"+"Your_Dia: "+dia;;
+
+				String pass="cibettech12345";
+				System.out.println("pass"+pass);
+
+				MailBean.sendFromGMail(from, pass, mail_list, subject, body);
+
+		response.sendRedirect("Center.jsp");	
+	}
+}
+
+Request.jsp:
+package servlet;
+
+
+import implement.Imple;
+import interfase.Inter;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import bean.Uploadbean;
+
+/**
+ * Servlet implementation class Request
+ */
+@WebServlet("/Request")
+public class Request extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public Request() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		doPost(request,response);
+		
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+	
+		
+		String name=request.getParameter("uname");
+		System.out.println("Uname: "+name);		
+		
+		String age=request.getParameter("age");
+		System.out.println("Age:"+age );
+		
+		String glucose=request.getParameter("glu");
+		System.out.println("Glu: "+glucose);
+		
+		String bp=request.getParameter("bp");
+		System.out.println("BP: "+bp);		
+	
+		String bmi=request.getParameter("bmi");
+		System.out.println("Bmi: "+bmi);
+		
+		String status=request.getParameter("dia");
+		System.out.println("Status:"+status);
+		
+		String insulin=request.getParameter("ins");
+		System.out.println("Ins:"+insulin );
+	
+		Uploadbean rq=new Uploadbean();
+		rq.setName(name);  
+		rq.setAge(age);
+		  rq.setGlucose(glucose);
+		  rq.setBMI(bmi);
+		  rq.setBloodPressure(bp);
+		  rq.setDiastats(status);
+		  rq.setInsulin(insulin);
+		
+		  Inter in=new Imple();
+		  int reqq=in.mreq(rq);
+		
+		if(reqq==1)
+		{
+			response.sendRedirect("Reqsendsuccess.jsp");
+		}
+		else
+		{
+			response.sendRedirect("Fnf.jsp");
+		}
+		
+	}
+
+}
+
+
